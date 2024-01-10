@@ -1,0 +1,9 @@
+public class Main {
+    public static void main(String[] args) {
+        //Practica No.1 5I
+        //Objetivo: Mi primer Programa
+        //Integrantes:Enrique Nau Xicohtencatl Carreto, Brayan Jesus Peralta Mancilla
+        //Paola Hernandez Calderon y Jennifer Saucedo Zacamo
+        System.out.println("Bienvenidos al facinante mundo de JAVA ");
+    }
+}
